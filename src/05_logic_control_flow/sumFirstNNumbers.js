@@ -8,7 +8,9 @@
  * If n is negative, your function should return 0.
  **/
 function sumFirstNNumbers(n) {
-    // Your code here
+    const sum = (1 + n) * n / 2;
+    
+    return sum;
 }
 
 
